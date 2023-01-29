@@ -16,6 +16,7 @@ namespace pharmacyCMS.Models
 
         public int discount { get; set; }
         public int price { get; set; }
+        // this need to add
 
     }
 }
