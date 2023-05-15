@@ -12,6 +12,7 @@ namespace pharmacy.DTO
         public string MedicationPrice { get; set; }
         public string Discount { get; set; }
         public int FinalPrice { get; set; }
+       // public int FinalPrice { get; set; }
 
 
 
